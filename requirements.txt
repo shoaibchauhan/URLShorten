@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytest
+httpx
+django
+djangorestframework
+pydantic
+pytest-django
+pytest-asyncio
+psycopg2-binary  # PostgreSQL adapter for Python
