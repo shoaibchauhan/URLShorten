@@ -25,8 +25,8 @@ This is a URL shortening service built with Python, FastAPI, and Django ORM. It 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shoaibchauhan/url-shortener.git
-   cd url-shortener
+   git clone https://github.com/shoaibchauhan/URLShorten.git
+   cd URLShorten
 
 2. Create a virtual environment or activate it:
 
